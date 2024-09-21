@@ -1,3 +1,3 @@
 ## DESAFIO SISTEMA BANCÁRIO EM PYTHON
 
-Resolução do desafio de código do módulo Sintaxe Básica com Python
+Resolução do desafio de código do módulo Trabalhando com Listas em Python
