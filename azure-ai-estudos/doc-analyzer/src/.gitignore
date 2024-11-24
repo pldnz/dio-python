@@ -1,0 +1,22 @@
+# Ignorar o ambiente virtual
+venv/
+*.pyc
+__pycache__/
+
+# Arquivo de configuração sensível
+.env
+
+# Configurações específicas do editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Cache e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Excluir dependências baixadas por erros
+src/**/*.egg-info/
+src/**/*.egg-info/
+requirements.txt 
